@@ -113,6 +113,7 @@
   <ItemGroup>
     <ClCompile Include="BinaryGap.cpp" />
     <ClCompile Include="CyclicRotation.cpp" />
+    <ClCompile Include="FrogJump.cpp" />
     <ClCompile Include="FrogRiverOne.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MissingInteger.cpp" />
