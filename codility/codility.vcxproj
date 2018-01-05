@@ -111,6 +111,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BinaryGap.cpp" />
     <ClCompile Include="CyclicRotation.cpp" />
     <ClCompile Include="FrogRiverOne.cpp" />
     <ClCompile Include="main.cpp" />
