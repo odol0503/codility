@@ -33,5 +33,5 @@ expected worst-case space complexity is O(1).
 #include <cmath>
 int FrogJump(int X, int Y, int D) 
 {
-	return static_cast<int>(ceil((Y - X) / D));
+	return static_cast<int>(ceil((Y - X) / static_cast<double>(D)));
 }
